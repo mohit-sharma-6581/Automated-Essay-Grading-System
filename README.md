@@ -1,2 +1,4 @@
 # Automated-Essay-Grading-System
 This project contains the code for Automated Essay Grading System using Machine Learning. We have used Linear Regression model to extract features and get the predicted output.
+# How to use
+1. Add all the files present inside Datasets folder in your google drive.
