@@ -6,3 +6,4 @@ This project contains the code for Automated Essay Grading System using Machine 
 # Reference
 * https://www.kaggle.com/irfanmansuri/the-havelett-foundation-automated-scoring
 * https://www.kaggle.com/c/asap-aes
+* https://www.google.com/url?sa=t&source=web&rct=j&url=http://cs229.stanford.edu/proj2012/MahanaJohnsApte-AutomatedEssayGradingUsingMachineLearning.pdf&ved=2ahUKEwiwgOa_7enxAhWwIbcAHR5uC9UQFjADegQIGBAC&usg=AOvVaw0jECbbtTWo0VfR1AFpIiT2&cshid=1626516354558
